@@ -35,3 +35,6 @@ bun.lock
 *.local.jsonc
 .zcode
 docs/
+
+# local
+.dev.vars
